@@ -74,6 +74,7 @@ void main() {
 			break;
 		}
 
+		cout << string(buf, 0, bytesReceived) << endl;
 
 		//echo message back to client
 		send(clientSocket, buf, bytesReceived + 1, 0);
