@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Nicholas Namusanga\Desktop\Sloan Kelly - C++ Networking Tutorials\BareBonesServer\main.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BareBonesServer.vcxproj -> C:\Users\Nicholas Namusanga\Desktop\Sloan Kelly - C++ Networking Tutorials\BareBonesServer\x64\Debug\BareBonesServer.exe

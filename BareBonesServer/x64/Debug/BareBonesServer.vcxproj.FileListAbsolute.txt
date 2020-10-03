@@ -1,0 +1,2 @@
+C:\Users\Nicholas Namusanga\Desktop\Sloan Kelly - C++ Networking Tutorials\BareBonesServer\x64\Debug\BareBonesServer.exe
+C:\Users\Nicholas Namusanga\Desktop\Sloan Kelly - C++ Networking Tutorials\BareBonesServer\x64\Debug\BareBonesServer.pdb
