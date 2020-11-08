@@ -1,0 +1,4 @@
+C:\Users\Nicholas Namusanga\Desktop\Sloan Kelly - C++ Networking Tutorials\BareBonesServer\x64\Debug\BareBonesServer.exe
+C:\Users\Nicholas Namusanga\Desktop\Sloan Kelly - C++ Networking Tutorials\BareBonesServer\x64\Debug\BareBonesServer.pdb
+C:\Users\Nicholas Namusanga\Desktop\Sloan-Kelly--Networking-In-Cpp--Youtube\MultipleChatClients_OneThread\BareBonesServer\x64\Debug\BareBonesServer.exe
+C:\Users\Nicholas Namusanga\Desktop\Sloan-Kelly--Networking-In-Cpp--Youtube\MultipleChatClients_OneThread\BareBonesServer\x64\Debug\BareBonesServer.pdb
